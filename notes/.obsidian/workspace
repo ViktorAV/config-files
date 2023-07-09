@@ -1,0 +1,51 @@
+{
+  "main": {
+    "id": "341acc783aca61fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "83129b924ccc5edf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "software/vifm/hotkeys.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d56d39eb60a9c085",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6d3383fd20aac0d5",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 221.80445861816406,
+    "collapsed": true
+  },
+  "active": "83129b924ccc5edf",
+  "lastOpenFiles": [
+    "software/vifm/config.md",
+    "software/vifm/hotkeys.md",
+    "vifm.md",
+    "markup_language/markdown/markdown.md",
+    "markup_language/yaml.md",
+    "markup_language/markdown/text.md",
+    "markup_language/markdown/images.md",
+    "markup_language/markdown/code.md",
+    "markup_language/markdown/headers.md",
+    "markup_language/markdown/links.md"
+  ]
+}
