@@ -1,0 +1,18 @@
+#!bash
+set guioptions 'v'
+set adjust-open 'best-fit'
+set default-fg "#ebdbb2"
+set default-bg "#101116"
+set statusbar-bg "transparent"
+set font "monospace normal 30"
+set scroll-step 300
+set recolor true
+set recolor-darkcolor "#c1d0b5" # #e8e4c9 #f3e3c3 #ebdbb2 #c1d0b5
+/* set recolor-lightcolor "#be8f3c" */
+set recolor-lightcolor "#011627"
+set recolor-keephue 'true'
+set recolor-reverse-video = 'true'
+
+map i recolor
+map j scroll down
+map k scroll up
