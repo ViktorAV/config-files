@@ -17,15 +17,14 @@ __Кому необходим__:
 3. Тестировщики.
 4. Языки: PHP&JS, Python, Java, Data Science.
 
-- [Командная оболочка (shell)](terminal)
-- [Команды](commands)
-- [Файловая система](file_system)
-- [Аттрибуты и права доступа](attributes)
-- [Ввод вывод и конвейеры](standard_io)
-- [Подстановка](substitute)
-- [Пользователи и группы](users_and_groups)
-- [Работа с устройствами](media)
-- [Сети](network)
-- [Архивация и резервное копирование](zip)
-- [Регулярные выражения](regular_expressions)
-
+* [Командная оболочка (shell)](terminal.md)
+* [Команды](commands.md)
+* [Файловая система](file_system.md)
+* [Аттрибуты и права доступа](attributes.md)
+* [Ввод вывод и конвейеры](standard_io.md)
+* [Подстановка](substitute.md)
+* [Пользователи и группы](users_and_groups.md)
+* [Работа с устройствами](media.md)
+* [Сети](network.md)
+* [Архивация и резервное копирование](zip.md)
+* [Регулярные выражения](regular_expressions.md)

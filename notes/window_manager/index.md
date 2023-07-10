@@ -1,3 +1,4 @@
 # Оконные мененджеры
 
-* [Tmux](tmux/index)
+* [Tmux](tmux/index.md)
+* [DWM](dwm/index.md)

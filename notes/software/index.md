@@ -1,8 +1,8 @@
 # Программы
 
-* [Vim](vim/index) 
+* [Vim](vim/index.md)
     Редактор текста.
-* [Zsh](zsh/index)
+* [Zsh](zsh/index.md)
     Оболочка терминала. (shell)
 * [Zathura](zathura/zathura.md) 
     Консольный PDF просмоторщик.
@@ -10,7 +10,7 @@
     Браузер.
 * [Alacritty](alacritty/alacritty.md) 
     Эмулятор терминала.
-* [MPV](mpv/index)
+* [MPV](mpv/index.md)
     Видеоплеер.
-* [Yewtube](yewtube)
+* [Yewtube](yewtube.md)
     Youtube консольный плеер.

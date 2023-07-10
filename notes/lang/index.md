@@ -1,4 +1,4 @@
 # Языки программирования
 
 __Языки разметки__
-* [Markdown](markdown)
+* [Markdown](markdown.md)

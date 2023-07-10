@@ -1,9 +1,9 @@
 # Редактор текста Vim
-* [Написание своих плагинов](plugins-tutorial/index)
-* [Настройка .vimrc](vimrc)
-* [Плагины](plugins/index)
-* [Параметры](settings)
-* [Команды](commands)
+* [Написание своих плагинов](plugins-tutorial/index.md)
+* [Настройка .vimrc](vimrc.md)
+* [Плагины](plugins/index.md)
+* [Параметры](settings.md)
+* [Команды](commands.md)
 
 - [Режимы работы](## Режимы работы)
 - [Рекомендации](## Рекомендации)

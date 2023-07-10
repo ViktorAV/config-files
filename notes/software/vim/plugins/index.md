@@ -1,16 +1,16 @@
 # Плагины VIM
 
-- [Vundle](vundle)
+- [Vundle](vundle.md)
     Мененджер плагинов
 - [VimWiki](vimwiki.md)
     Заметки и документация
-- [Commentary](commentary)
+- [Commentary](commentary.md)
     Коментирование кода
-- [Goyo](goyo)
+- [Goyo](goyo.md)
     Скрывает все окна и помещает текст по центру
-- [Surround](surround)
+- [Surround](surround.md)
     Изменяет пары (ковычки, тэги)
-- [Fzf](fzf)
+- [Fzf](fzf.md)
     Быстрый поиск файлов по относительным именам
-- [Floaterm](vim-floaterm)
+- [Floaterm](vim-floaterm.md)
     Выпадающий терминал.
