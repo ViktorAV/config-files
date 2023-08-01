@@ -1,0 +1,16 @@
+#!bash
+set guioptions 'v'
+set adjust-open 'best-fit'
+set default-fg "#e5c49e"
+set default-bg "#141c21"
+set statusbar-bg "transparent"
+set font "JetBrainsNerdMono normal 30"
+set scroll-step 300
+set recolor true
+set recolor-darkcolor "#e5c49e" # #e8e4c9 #f3e3c3 #c1d0b5 #e6e1cf #ebdbb2
+set recolor-lightcolor "#141c21" # #d6bb87 #8f673d #c5784c #893618 #061923 #141c21
+set recolor-keephue 'true'
+set recolor-reverse-video = 'true'
+map i recolor
+map j scroll down
+map k scroll up
