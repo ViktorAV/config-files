@@ -1,1 +1,0 @@
-# Дистрибутив GNU/Linux Debian
