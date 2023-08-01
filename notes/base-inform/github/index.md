@@ -3,11 +3,15 @@
 ## Быстрый старт
 ### Создаём и настраиваем новый проект git
 ```bash
-git --global user.name ViktorAV
-git --global user.email mrtrac@yandex.ru
-git --global defaultBranch.name main
+git config --global user.name "ViktorAV"
+git config --global user.email "mrtrac@yandex.ru"
+git config --global defaultBranch.name "main"
 
 git init
+git add remote origin git@github.com:ViktorAV/config-files.git
+git clone https://github.com/ViktorAV/config-files.git
+git clone git@github.com:ViktorAV/config-files.git
+git pull git@github.com:ViktorAV/config-files.git main
 ```
 
 ### Создаём ключи SSH
