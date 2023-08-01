@@ -7,3 +7,4 @@
 
 
 * [GitHub](github/index.md)
+* [Подключение по SSH](ssh.md)
