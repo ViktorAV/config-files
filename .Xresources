@@ -1,0 +1,79 @@
+!! URxvt Appearance
+URxvt.font: xft:JetBrainsMonoNerdFont:style=Regular:size=22
+URxvt.boldfont: xft:JetBrainsMonoNerdFont:style=Bold:size=22
+URxvt.italicfont: xft:JetBrainsMonoNerdFont:style=Italic:size=22
+URxvt.boldItalicfont: xft:JetBrainsMonoNerdFont:style=BoldItalic:size=22
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.geometry: 85x18
+URxvt.internalBorder: 25
+URxvt.cursorBlink: false
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.transparent: false
+URxvt.shading: 40
+URxvt.saveLines: 3000
+URxvt.antialias: true
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+
+!! Keybindings
+! Навигация
+URxvt.keysym.Control-k: command:\033]720;1\007
+URxvt.keysym.Control-j: command:\033]721;1\007
+URxvt.clipboard.autocopy: true
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+
+URxvt.urlLauncher: w3m
+URxvt.underlineURLs: true
+URxvt.urlButton: 1
+URxvt.copyCommand: xclip -i -selection clipboard
+URxvt.pasteCommand: xclip -o -selection clipboard
+
+
+!! ColorScheme
+! special
+! *.foreground: #e5c49e
+*.foreground: #ebdbb2
+*.background: #141c21
+*.cursorcolor: #e5c49e
+*.cursorcolor2: red
+
+! black
+*.color0: #263640
+*.color8: #4a697d
+
+! red
+*.color1: #db662d
+*.color9: #dd998a
+
+! green
+*.color2: #819400
+*.color10: #a4bd00
+
+! yellow
+*.color3: #b08500
+*.color11: #d9a400
+
+! blue
+*.color4: #2587cc
+*.color12: #2ca2f5
+
+! magneta
+*.color5: #696ebf
+*.color13: #8086e8
+
+! cyan
+*.color6: #289c93
+*.color14: #33c5ba
+
+! white
+*.color7: #bfbaac
+*.color15: #fdf6e3
