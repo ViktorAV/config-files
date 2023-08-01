@@ -1,0 +1,26 @@
+keymap V		COMMAND "SHELL 'mpv $W3M_URL'"
+keymap 0		LINE_BEGIN
+keymap o		GOTO
+keymap H		PREV
+keymap L		NEXT
+keymap `		GOTO_HOME
+keymap TAB		SELECT_MENU
+keymap e		EDIT_SCREEN
+keymap r		RELOAD
+keymap O		TAB_GOTO
+keymap T		NEW_TAB
+keymap C-q		CLOSE_TAB
+keymap C-t		NEXT_TAB
+keymap M		ADD_BOOKMARK
+keymap m		VIEW_BOOKMARK
+keymap C-k		HELP
+keymap C-o		OPTIONS
+keymap C-d		DOWNLOAD_LIST
+keymap d		BACK
+keymap J		NEXT_LINK
+keymap K		PREV_LINK
+keymap v		EXTERN_LINK
+
+keymap c		PEEK
+keymap u 		PEEK_LINK
+keymap i		PEEK_IMG
