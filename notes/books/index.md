@@ -11,6 +11,7 @@ __Python__
 * [David Beazly. Recipe (2019)](python-recipe/index.md)
 * [Dan Bader. Clean Python (2018)](clean-python/index.md)
 * [Bill Lubanovic. Introducing Python (2021)](introducing-python/index.md)
+* [Persival](persival-tdd/index.md)
  
 __Vim__
 * [Drew Neil. Practical Vim (2017)](practical-vim/index.md)
