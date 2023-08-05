@@ -5,3 +5,5 @@
 * [Vim как просмотрщик man-страниц](vim-pager.md)
 * [Установка picom](picom.md)
 * [Настройка WiFi](wifi-setup.md)
+* [Установка курсора](cursor-install.md)
+* [Установка и настройка lightdm](lightdm.md)
